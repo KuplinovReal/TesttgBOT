@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\putya\\source\\repos\\SELL_PRIVATE_BOT\\SELL_PRIVATE_BOT.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\putya\\source\\repos\\SELL_PRIVATE_BOT\\SELL_PRIVATE_BOT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\putya\\source\\repos\\SELL_PRIVATE_BOT\\SELL_PRIVATE_BOT.csproj",
+        "projectName": "SELL_PRIVATE_BOT",
+        "projectPath": "C:\\Users\\putya\\source\\repos\\SELL_PRIVATE_BOT\\SELL_PRIVATE_BOT.csproj",
+        "packagesPath": "C:\\Users\\putya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\putya\\source\\repos\\SELL_PRIVATE_BOT\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\putya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[19.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

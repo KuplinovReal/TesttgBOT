@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SELL_PRIVATE_BOT", "SELL_PRIVATE_BOT.csproj", "{3EE6ED0F-5DD2-476A-A5A9-03D50073977F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EE6ED0F-5DD2-476A-A5A9-03D50073977F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE6ED0F-5DD2-476A-A5A9-03D50073977F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE6ED0F-5DD2-476A-A5A9-03D50073977F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE6ED0F-5DD2-476A-A5A9-03D50073977F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {203189DB-0692-4A00-BF88-01F413516BF6}
+	EndGlobalSection
+EndGlobal
